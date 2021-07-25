@@ -8,7 +8,7 @@
 //!
 //! # Installation
 //!
-//! Ddd it as a dependency to your `Cargo.toml`
+//! Add it as a dependency to your `Cargo.toml`
 //! ```toml
 //! [dependencies]
 //! jackdauer = "0.1.0"
