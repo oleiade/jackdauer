@@ -25,7 +25,7 @@ let real_small_duration = duration("4 minutes 3 seconds, 2 milliseconds and 1 na
 
 ## Features
 
-- The [`duration`](https://docs.rs/jackdauer/0.1.0/jackdauer/fn.duration.html) function provides stratight forward functions to parse durations from a human-readable format, into std::time::Duration instances.
+- The [`duration`](https://docs.rs/jackdauer/0.1.0/jackdauer/fn.duration.html) function provides straight forward functions to parse durations from a human-readable format, into std::time::Duration instances.
 - The time unit specific functions return unsigned integers representing the amount of said time unit parsed from a human-readable format:
   - [`years`](fn.years.html): returns the parsed duration as an amount of years
   - [`months`](fn.months.html): returns the parsed duration as an amount of months
@@ -58,11 +58,11 @@ jackdauer = "0.1.0"
 
 #### What's the name about?
 
-"Dauer" is the german word for duration. When thinking about time, it reminded me of this show called "24", and its main character "Jack Bauer" (which, incidentally also happens to mean "builder" in german). The contraction of both gives "Jack Dauer".
+"Dauer" is the German word for duration. When thinking about time, it reminded me of this show called "24", and its main character "Jack Bauer" (which, incidentally also happens to mean "builder" in German). The contraction of both gives "Jack Dauer".
 
 #### But why the ridiculous name?
 
-It's 2021, COVID-19 is still raging out there. The last year and a half has been quite gloomy and I thought I needed (and you needed too; maybe you're not just aware of it) of some terrible pun to shed some light on my day to day quarantined life.
+It's 2021, COVID-19 is still raging out there. The last year and a half has been quite gloomy, and I thought I needed (and you needed too; maybe you're not just aware of it) of some terrible pun to shed some light on my day to day quarantined life.
 
 ## Acknowledgements
 
