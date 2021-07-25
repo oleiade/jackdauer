@@ -1,6 +1,8 @@
 [package]
 authors = ["oleiade <theo@crevon.me>"]
+categories = ["parsing", "text-processing", "date-and-time"]
 edition = "2018"
+keywords = ["duration", "parsing", "text-processing", "date", "time"]
 license = "MIT"
 name = "jackdauer"
 version = "0.1.0"
