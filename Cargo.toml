@@ -1,6 +1,7 @@
 [package]
 authors = ["oleiade <theo@crevon.me>"]
 categories = ["parsing", "text-processing", "date-and-time"]
+description = "Use this Rust crate to easily parse various time formats to durations"
 edition = "2018"
 keywords = ["duration", "parsing", "text-processing", "date", "time"]
 license = "MIT"
