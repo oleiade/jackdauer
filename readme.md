@@ -48,7 +48,7 @@ jackdauer = "0.1.0"
 
 ## Documentation
 
-[Documentation]((https://docs.rs/jackdauer/0.1.0/jackdauer/)
+[Documentation](https://docs.rs/jackdauer/0.1.0/jackdauer/)
 
 ## Authors
 
