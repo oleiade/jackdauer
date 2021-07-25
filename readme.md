@@ -1,8 +1,8 @@
-# Project Title
+# JackDauer
 
 ![CI](https://github.com/oleiade/jackdauer/actions/workflows/main.yml/badge.svg)
 
-A brief description of what this project does and who it's for
+Use this Rust crate to easily parse various time formats to durations.
 
 ## Demo
 
