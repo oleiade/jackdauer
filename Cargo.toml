@@ -1,6 +1,7 @@
 [package]
 authors = ["oleiade <theo@crevon.me>"]
 edition = "2018"
+license = "MIT"
 name = "jackdauer"
 version = "0.1.0"
 
