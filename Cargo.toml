@@ -3,9 +3,11 @@ authors = ["oleiade <theo@crevon.me>"]
 categories = ["parsing", "text-processing", "date-and-time"]
 description = "Use this Rust crate to easily parse various time formats to durations"
 edition = "2018"
+homepage = "https://github.com/oleiade/jackdauer"
 keywords = ["duration", "parsing", "text-processing", "date", "time"]
 license = "MIT"
 name = "jackdauer"
+repository = "https://github.com/oleiade/jackdauer"
 version = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
