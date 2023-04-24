@@ -886,17 +886,11 @@ mod parser {
     }
 
     fn unsigned_integer_32(input: &str) -> IResult<&str, u32> {
-        context(
-            "unsigned_integer_32",
-            map_res(digit0, |s: &str| s.parse::<u32>()),
-        )(input)
+        context("unsigned_integer_32", map_res(digit0, str::parse::<u32>))(input)
     }
 
     fn unsigned_integer_64(input: &str) -> IResult<&str, u64> {
-        context(
-            "unsigned_integer_64",
-            map_res(digit0, |s: &str| s.parse::<u64>()),
-        )(input)
+        context("unsigned_integer_64", map_res(digit0, str::parse::<u64>))(input)
     }
 
     #[cfg(test)]
